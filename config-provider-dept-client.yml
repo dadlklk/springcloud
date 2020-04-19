@@ -74,5 +74,5 @@ eureka:
 info:
   app.name: practice-microserviceCloud
   company.name: 111
-  build.artifactId: '@'project.artifactId'@'
-  build.version: '@'project.version'@'
+  build.artifactId: @project.artifactId@
+  build.version: @project.version@
